@@ -1,5 +1,3 @@
-// gls.plugin.ts
-
 import { PluginCommonModule, VendurePlugin } from '@vendure/core';
 import { GlsService } from './gls.service';
 
